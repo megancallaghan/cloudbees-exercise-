@@ -1,1 +1,1 @@
-# cloudbees-exercise-live long anf prosper
+# cloudbees-exercise-live long and prosper
